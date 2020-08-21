@@ -1,0 +1,23 @@
+﻿  CSC382Graph_Student.cpp
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(184,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(183): message :  while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)'
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_Student.cpp(137): message :  see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::GraphSize(void)' being compiled
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_Student.cpp(93): message :  see reference to class template instantiation 'CSC382Graph_AdjacencyList<int>' being compiled
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_NodeBased.h(187,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_NodeBased.h(186): message :  while compiling class template member function 'int CSC382Graph_NodeBased<int>::Size(void)'
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_Student.cpp(65): message :  see reference to function template instantiation 'int CSC382Graph_NodeBased<int>::Size(void)' being compiled
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_Student.cpp(22): message :  see reference to class template instantiation 'CSC382Graph_NodeBased<int>' being compiled
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(179,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :  while compiling class template member function 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<_Ty>> *)'
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :         with
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :         [
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :             T=int,
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :             _Ty=int
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(178): message :         ]
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :  see reference to function template instantiation 'int CSC382Graph_AdjacencyList<int>::NumberOfEdges(std::list<T,std::allocator<_Ty>> *)' being compiled
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :         with
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :         [
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :             T=int,
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :             _Ty=int
+C:\Users\nornguye\Documents\CSC382Graph_Student\CSC382Graph_AdjacencyList.h(172): message :         ]
+  CSC382Graph_Student.vcxproj -> C:\Users\nornguye\Documents\CSC382Graph_Student\x64\Debug\CSC382Graph_Student.exe
